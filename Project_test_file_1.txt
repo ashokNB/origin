@@ -1,3 +1,0 @@
-DevOps Test Training Project file.
-
-Tested first set of commands in git.
